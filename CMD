@@ -1,0 +1,18 @@
+
+cp /usr/local/etc/php.ini-development /usr/local/etc/php.ini
+
+cd /usr/local/etc/nagios
+mv cgi.cfg-sample cgi.cfg
+mv nagios.cfg-sample nagios.cfg
+mv resource.cfg-sample resource.cfg
+
+cd /usr/local/etc/nagios/objects
+mv commands.cfg-sample commands.cfg
+mv contacts.cfg-sample contacts.cfg
+mv localhost.cfg-sample localhost.cfg
+mv printer.cfg-sample printer.cfg
+mv switch.cfg-sample switch.cfg
+mv templates.cfg-sample templates.cfg
+mv timeperiods.cfg-sample timeperiods.cfg
+
+

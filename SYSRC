@@ -1,0 +1,5 @@
+mysql_enable=YES
+apache24_enable=YES
+nagios_enable=YES
+
+
