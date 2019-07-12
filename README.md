@@ -1,6 +1,8 @@
 # nagios
 Bastille Template to create a Nagios Monitoring Jail
 
+ STATUS: Testing
+
 The first thing to do after the jail is created and started is to set the mysql admin
 password with the following command:
 
